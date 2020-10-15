@@ -1,0 +1,146 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f1e3d3;;
+}
+
+.topo {
+    background: #c1666b;
+    text-align: center; color: #f1e3d3;
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    width: 100%;
+    padding-top: 60px;
+}
+
+.topo-esquerdo {
+    width: 49%;
+    display: inline-block;
+    padding-top: 50px;
+}
+
+.topo-direito {
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.topo-texto {
+    width: 550px;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.topo-titulo{
+    text-align: center;
+    width: 550px;
+    margin-bottom: 30px;
+    font-size: 3rem;
+}
+.topo-minha-foto { 
+    width: 380px;
+    box-shadow: 0px 4px 10px 0px #0e7987;
+    border-radius: 15px;
+}
+
+.historia {
+    background: #ffffff;
+    text-align: center; color: #000000;
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    padding: 40px 20px;
+}
+
+.historia-titulo {
+margin-bottom: 30px;
+font-size: 2.5rem;
+}
+
+.historia-texto {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+
+.historia-link { 
+    display: inline-block;
+    text-decoration: none;
+    background-color: #000000; color: #f1e3d3;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.2rem;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    transition: all .2s;
+}
+
+.historia-link:hover{
+    text-decoration: underline;
+    background-color: #c1666b;
+    transform: scale(2);
+}
+    .aprendizado {
+        background: #48a9a6;
+        text-align: center;
+        padding: 40px 20px;
+        
+    }
+
+    .aprendizado-titulo {
+        font-family: 'Mulish', sans-serif;
+        font-size: 2.5rem;  
+        color: #f1e3d3;
+    }
+
+    .aprendizado-foto {
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px 0px #0e7987;
+    }
+    .aprendizado-esquerdo {
+        width: 49%;
+        display: inline-block;
+    }
+
+    .aprendizado-direito {
+        width: 49%;
+        display: inline-block;
+    }
+
+    .aprendizado-subtitulo {
+        font-family: 'Mulish', sans-serif;
+        font-size: 2rem;  
+        color: #f1e3d3;
+        margin-bottom: 25px;
+    
+    }
+
+   .aprendizado-subtitulo:hover{
+       text-decoration: underline;
+
+   }
+
+   .rodape {
+       background: #c1666b;
+       text-align: center;
+       padding: 40px 20px;
+
+   }
+
+   .rodape-texto {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;  
+    color: #f1e3d3;
+    margin-bottom: 25px;
+
+   }
